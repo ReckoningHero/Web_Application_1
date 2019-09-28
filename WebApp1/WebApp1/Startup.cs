@@ -49,6 +49,13 @@ namespace WebApp1
                 app.UseHsts();
             }
 
+
+
+
+
+
+
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
