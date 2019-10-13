@@ -29,3 +29,4 @@ C:\Users\twinb0rn\source\repos\Web_Application_1\WebApp1\WebApp1\obj\Debug\netco
 C:\Users\twinb0rn\source\repos\Web_Application_1\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.dll
 C:\Users\twinb0rn\source\repos\Web_Application_1\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.pdb
 C:\Users\twinb0rn\source\repos\Web_Application_1\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.csproj.CopyComplete
+C:\Users\twinb0rn\source\repos\Web_Application_1\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.csprojAssemblyReference.cache
